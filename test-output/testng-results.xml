@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14862" started-at="2018-05-13T20:43:37Z" finished-at="2018-05-13T20:43:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14862" started-at="2018-05-13T20:43:37Z" finished-at="2018-05-13T20:43:52Z">
+      <class name="roi.roitest.ScreenKeyBoardTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:roi.roitest.ScreenKeyBoardTest@6723610b]" name="setup" is-config="true" duration-ms="8741" started-at="2018-05-13T20:43:37Z" finished-at="2018-05-13T20:43:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testKeyboardAppearance()[pri:1, instance:roi.roitest.ScreenKeyBoardTest@6723610b]" name="testKeyboardAppearance" duration-ms="1125" started-at="2018-05-13T20:43:45Z" finished-at="2018-05-13T20:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKeyboardAppearance -->
+        <test-method status="PASS" signature="testKeyBoardClose()[pri:2, instance:roi.roitest.ScreenKeyBoardTest@6723610b]" name="testKeyBoardClose" duration-ms="3316" started-at="2018-05-13T20:43:47Z" finished-at="2018-05-13T20:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKeyBoardClose -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:roi.roitest.ScreenKeyBoardTest@6723610b]" name="tearDown" is-config="true" duration-ms="1569" started-at="2018-05-13T20:43:50Z" finished-at="2018-05-13T20:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- roi.roitest.ScreenKeyBoardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

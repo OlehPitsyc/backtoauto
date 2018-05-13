@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression" verbose="1" parallel="classes">
+	<test name="Google Search Tests">
+		<classes>
+			<class name="roi.roitest.SearchResultNumberTest"></class>
+			<class name="roi.roitest.ScreenKeyBoardTest"></class>
+		</classes>
+	</test>
+
+</suite>
